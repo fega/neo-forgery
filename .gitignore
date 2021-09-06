@@ -9,7 +9,7 @@
 node_modules
 .yalc
 yalc.lock
-
+.npmrc
 /* ns__custom_start extra */
 .idea
 .env

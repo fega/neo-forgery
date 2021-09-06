@@ -1,7 +1,8 @@
 {
-  "name": "neo-forgery",
+  "name": "@fega/neo-forgery",
   "description": "the easy way to mock a neo4j-driver session",
   "author": "YizYah",
+  "private": false,
   "version": "1.9.0",
   "bugs": "https://github.com/YizYah/neo-forgery/issues",
   "engines": {
@@ -22,7 +23,6 @@
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "YizYah/neo-forgery",
   "scripts": {
     "build your own ": "tsc",
     "commit": "git-cz",
